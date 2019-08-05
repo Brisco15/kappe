@@ -1,0 +1,8 @@
+*
+!appp/
+!app/*
+!app/**/*
+!gulpfile.js
+!package.json
+!package-lock.json
+!.gitignore
